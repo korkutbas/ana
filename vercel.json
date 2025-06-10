@@ -1,0 +1,10 @@
+
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://usa.velmondo.com",
+      "permanent": true
+    }
+  ]
+}
